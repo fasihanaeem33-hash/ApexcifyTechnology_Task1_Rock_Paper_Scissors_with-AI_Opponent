@@ -1,0 +1,33 @@
+# Rock Paper Scissors with AI Opponent
+
+A simple command-line Rock-Paper-Scissors game where you play against a computer opponent that makes random choices. The game includes a scoreboard to track your wins, losses, and ties.
+
+## Features
+
+- Play Rock-Paper-Scissors against an AI opponent
+- Scoreboard tracking wins, losses, and ties
+- Simple text-based interface
+- Quit anytime with 'q'
+
+## Requirements
+
+- Python 3.x
+
+## How to Run
+
+1. Ensure you have Python installed on your system.
+2. Navigate to the project directory.
+3. Run the game with: `python main.py`
+
+## Gameplay
+
+- Enter your choice: rock, paper, or scissors
+- The computer will randomly select its choice
+- The winner is determined by standard rules:
+  - Rock beats Scissors
+  - Paper beats Rock
+  - Scissors beats Paper
+- Scores are updated after each round
+- Type 'q' to quit and see the final scoreboard
+
+Enjoy the game!
